@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![header](./images/header.gif)
+Yin is an aspiring software engineer and data scientist with 2 years of experience in the digital marketing industry. She has always been passionate about seeking possible solutions to the problems in life. She started an educational startup to help college students who feel lost about their careers gain hands-on experience by matching them with freelance projects. Learning computer science to her is like gaining a pair of wings on her back because coding is a superpower that she can bring more crazy ideas into life.
 
 # 🔧Techology and Tools
 
