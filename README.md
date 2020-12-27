@@ -4,6 +4,12 @@
 
 Yin is an aspiring software engineer and data scientist with 2 years of experience in the digital marketing industry. She has always been passionate about seeking possible solutions to the problems in life. She started an educational startup to help college students who feel lost about their careers gain hands-on experience by matching them with freelance projects. Learning computer science to her is like gaining a pair of wings on her back because coding is a superpower that she can bring more crazy ideas into life.
 
+# 🤙🏻 Find Me Elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-YinChang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yin-chang/)](https://www.linkedin.com/in/yin-chang/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://www.makeschool.com/portfolio/yin-chang)](https://www.makeschool.com/portfolio/yin-chang)
+[![Gmail Badge](https://img.shields.io/badge/-yin.chang@students.makeschool.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yin.chang@students.makeschool.com)](mailto:yin.chang@students.makeschool.com)
+
 # 🔧 Techology and Tools
 
 - Programming Languages
@@ -47,12 +53,6 @@ Yin is an aspiring software engineer and data scientist with 2 years of experien
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-
-# 🤙🏻 Find Me Elsewhere
-
-[![Linkedin Badge](https://img.shields.io/badge/-YinChang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yin-chang/)](https://www.linkedin.com/in/yin-chang/)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://www.makeschool.com/portfolio/yin-chang)](https://www.makeschool.com/portfolio/yin-chang)
-[![Gmail Badge](https://img.shields.io/badge/-yin.chang@students.makeschool.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yin.chang@students.makeschool.com)](mailto:yin.chang@students.makeschool.com)
 
 # 📈 Github Stats
 
