@@ -2,8 +2,6 @@
 
 ![header](./images/header.gif)
 
-Yin is an aspiring software engineer and data scientist with 2 years of experience in the digital marketing industry. She has always been passionate about seeking possible solutions to the problems in life. She started an educational startup to help college students who feel lost about their careers gain hands-on experience by matching them with freelance projects. Learning computer science to her is like gaining a pair of wings on her back because coding is a superpower that she can bring more crazy ideas into life.
-
 # 🤙🏻 Find Me Elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-YinChang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yin-chang/)](https://www.linkedin.com/in/yin-chang/)
