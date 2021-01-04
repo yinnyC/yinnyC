@@ -62,7 +62,7 @@
 </a>
 
 <a href="https://github.com/yinnyC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yinnyC&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yinnyC&theme=radical&v=2" />
 </a><br/><br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yinnyC)
